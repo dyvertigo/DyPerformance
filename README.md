@@ -18,7 +18,7 @@
    2. Run the following command:
    
       ```powershell
-      iwr -useb https://github.com/dyvertigo/DyPerformance/releases/download/0.1.2-beta/DyPerformance.ps1 | iex
+      iwr -useb https://github.com/dyvertigo/DyPerformance/releases/download/0.1.1-beta/DyPerformance.ps1 | iex
    
    3. Follow the prompts to apply your selected optimizations.
    4. Reboot to apply changes fully.
