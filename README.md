@@ -33,14 +33,15 @@
    
    Yes, DyPerformance is designed with safety in mind. It makes non-invasive system tweaks and doesn’t install any third-party software. You can review the [source code](DyPerformance.ps1) to understand the changes made.
    
-   ### 🔄 What if something goes wrong?
+   ### 🔄 Features
    
    A system restore point is automatically created before applying any changes. This allows you to revert back if needed. By running the script, you agree to this safeguard.
    
    ### 🖥️ Can this script work on older PCs?
    
-   Yes, the script has been tested on hardware as old as 2010 with positive results. However, older configurations may show variable outcomes depending on their specifications.
+   For a detailed list of all system tweaks and optimizations applied by DyPerformance, see the [Feature List](FEATURES.md).
    
+
    ### 📞 Where can I get help if I have issues?
    
    For community support, reach out to me on Discord @dyvertigo. Alternatively, you can open an issue on GitHub for assistance.
